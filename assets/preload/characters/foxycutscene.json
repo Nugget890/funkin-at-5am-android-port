@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-116,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "FoxIdle"
+		},
+		{
+			"offsets": [
+				87,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "FoxLeft"
+		},
+		{
+			"offsets": [
+				-48,
+				-36
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "FoxDown"
+		},
+		{
+			"offsets": [
+				-38,
+				-28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "FoxRight"
+		},
+		{
+			"offsets": [
+				55,
+				35
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "FoxUp"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-180,
+				1
+			],
+			"anim": "559",
+			"fps": 24,
+			"name": "Fox559",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Cutscene1",
+	"position": [
+		-140,
+		40
+	],
+	"healthicon": "foxy",
+	"flip_x": false,
+	"healthbar_colors": [
+		102,
+		51,
+		51
+	],
+	"camera_position": [
+		400,
+		-10
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

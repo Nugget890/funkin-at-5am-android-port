@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				-8
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "MangleIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				210,
+				50
+			],
+			"anim": "Enter",
+			"fps": 24,
+			"name": "MangleEnter",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Mangle",
+	"position": [
+		10,
+		-270
+	],
+	"healthicon": "",
+	"flip_x": false,
+	"healthbar_colors": [
+		163,
+		82,
+		81
+	],
+	"camera_position": [
+		-160,
+		80
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

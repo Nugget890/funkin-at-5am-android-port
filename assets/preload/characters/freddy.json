@@ -1,0 +1,67 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				36,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "FredIdle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "enter",
+			"indices": [],
+			"name": "FredEnter"
+		},
+		{
+			"offsets": [
+				12,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "yo",
+			"indices": [],
+			"name": "FredYo"
+		},
+		{
+			"offsets": [
+				17,
+				-16
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "leave",
+			"loop": false,
+			"name": "FredLeave"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Freddy",
+	"position": [
+		20,
+		10
+	],
+	"healthicon": "",
+	"flip_x": false,
+	"healthbar_colors": [
+		163,
+		82,
+		81
+	],
+	"camera_position": [
+		-270,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
