@@ -1,0 +1,59 @@
+{
+	"storyName": "gfd",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"5 AM",
+			"foxy",
+			[
+				146,
+				53,
+				53
+			]
+		],
+		[
+			"Titular",
+			"foxy",
+			[
+				146,
+				53,
+				53
+			]
+		],
+		[
+			"GARBAGE",
+			"freddy",
+			[
+				106,
+				73,
+				53
+			]
+		],
+		[
+			"Groundbreakin",
+			"bonsong",
+			[
+				86,
+				53,
+				193
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "hfggfh",
+	"hiddenUntilUnlocked": false
+}
