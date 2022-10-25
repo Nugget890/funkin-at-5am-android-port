@@ -1,0 +1,64 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "void",
+		"player1": "bonnie",
+		"player2": "foxy",
+		"player3": null,
+		"events": [
+			[
+				65416.6666666667,
+				[
+					[
+						"Change Character",
+						"dad",
+						"foxycutscene"
+					],
+					[
+						"Play Animation",
+						"dad",
+						"foxidle"
+					]
+				]
+			],
+			[
+				77250,
+				[
+					[
+						"Change Character",
+						"dad",
+						"foxy"
+					]
+				]
+			],
+			[
+				77333.3333333333,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				173333.333333333,
+				[
+					[
+						"Change Scroll Speed",
+						"1.1",
+						"1"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 180,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "5 AM"
+	}
+}
