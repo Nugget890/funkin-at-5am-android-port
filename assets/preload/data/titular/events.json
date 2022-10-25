@@ -1,0 +1,18 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "stage",
+		"player1": "bf",
+		"player2": "foxystick",
+		"player3": null,
+		"events": [],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 230,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Titular"
+	}
+}
