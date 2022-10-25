@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Foxy.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="FoxDown0000" x="0" y="0" width="670" height="587" pivotX="-134.25" pivotY="-29.45" frameX="0" frameY="0" frameWidth="671" frameHeight="591"/>
+	<SubTexture name="FoxDown0001" x="0" y="0" width="670" height="587" frameX="0" frameY="0" frameWidth="671" frameHeight="591"/>
+	<SubTexture name="FoxDown0002" x="672" y="0" width="668" height="557" frameX="0" frameY="-34" frameWidth="671" frameHeight="591"/>
+	<SubTexture name="FoxDown0003" x="672" y="0" width="668" height="557" frameX="0" frameY="-34" frameWidth="671" frameHeight="591"/>
+	<SubTexture name="FoxDown0004" x="1342" y="0" width="671" height="564" frameX="0" frameY="-24" frameWidth="671" frameHeight="591"/>
+	<SubTexture name="FoxDown0005" x="1342" y="0" width="671" height="564" frameX="0" frameY="-24" frameWidth="671" frameHeight="591"/>
+	<SubTexture name="FoxDown0006" x="1342" y="0" width="671" height="564" frameX="0" frameY="-24" frameWidth="671" frameHeight="591"/>
+	<SubTexture name="FoxDown0007" x="1342" y="0" width="671" height="564" frameX="0" frameY="-24" frameWidth="671" frameHeight="591"/>
+	<SubTexture name="FoxDown0008" x="1342" y="0" width="671" height="564" frameX="0" frameY="-24" frameWidth="671" frameHeight="591"/>
+	<SubTexture name="FoxDown0009" x="1342" y="0" width="671" height="564" frameX="0" frameY="-24" frameWidth="671" frameHeight="591"/>
+	<SubTexture name="FoxDown0010" x="1342" y="0" width="671" height="564" frameX="0" frameY="-24" frameWidth="671" frameHeight="591"/>
+	<SubTexture name="FoxDown0011" x="1342" y="0" width="671" height="564" frameX="0" frameY="-24" frameWidth="671" frameHeight="591"/>
+	<SubTexture name="FoxDown0012" x="1342" y="0" width="671" height="564" frameX="0" frameY="-24" frameWidth="671" frameHeight="591"/>
+	<SubTexture name="FoxDown0013" x="1342" y="0" width="671" height="564" frameX="0" frameY="-24" frameWidth="671" frameHeight="591"/>
+	<SubTexture name="FoxIdle0000" x="2015" y="0" width="460" height="542" pivotX="-85.15" pivotY="-9.65" frameX="0" frameY="-47" frameWidth="472" frameHeight="590"/>
+	<SubTexture name="FoxIdle0001" x="2015" y="0" width="460" height="542" frameX="0" frameY="-47" frameWidth="472" frameHeight="590"/>
+	<SubTexture name="FoxIdle0002" x="2477" y="0" width="472" height="542" frameX="0" frameY="-47" frameWidth="472" frameHeight="590"/>
+	<SubTexture name="FoxIdle0003" x="2477" y="0" width="472" height="542" frameX="0" frameY="-47" frameWidth="472" frameHeight="590"/>
+	<SubTexture name="FoxIdle0004" x="2951" y="0" width="445" height="573" frameX="0" frameY="-17" frameWidth="472" frameHeight="590"/>
+	<SubTexture name="FoxIdle0005" x="2951" y="0" width="445" height="573" frameX="0" frameY="-17" frameWidth="472" frameHeight="590"/>
+	<SubTexture name="FoxIdle0006" x="3398" y="0" width="448" height="590" frameX="0" frameY="0" frameWidth="472" frameHeight="590"/>
+	<SubTexture name="FoxIdle0007" x="3398" y="0" width="448" height="590" frameX="0" frameY="0" frameWidth="472" frameHeight="590"/>
+	<SubTexture name="FoxIdle0008" x="0" y="592" width="448" height="590" frameX="0" frameY="0" frameWidth="472" frameHeight="590"/>
+	<SubTexture name="FoxIdle0009" x="0" y="592" width="448" height="590" frameX="0" frameY="0" frameWidth="472" frameHeight="590"/>
+	<SubTexture name="FoxIdle0010" x="0" y="592" width="448" height="590" frameX="0" frameY="0" frameWidth="472" frameHeight="590"/>
+	<SubTexture name="FoxIdle0011" x="0" y="592" width="448" height="590" frameX="0" frameY="0" frameWidth="472" frameHeight="590"/>
+	<SubTexture name="FoxIdle0012" x="0" y="592" width="448" height="590" frameX="0" frameY="0" frameWidth="472" frameHeight="590"/>
+	<SubTexture name="FoxIdle0013" x="0" y="592" width="448" height="590" frameX="0" frameY="0" frameWidth="472" frameHeight="590"/>
+	<SubTexture name="FoxLeft0000" x="450" y="592" width="442" height="611" pivotX="-58.55" pivotY="12.65" frameX="0" frameY="0" frameWidth="450" frameHeight="611"/>
+	<SubTexture name="FoxLeft0001" x="450" y="592" width="442" height="611" frameX="0" frameY="0" frameWidth="450" frameHeight="611"/>
+	<SubTexture name="FoxLeft0002" x="894" y="592" width="444" height="590" frameX="-6" frameY="-21" frameWidth="450" frameHeight="611"/>
+	<SubTexture name="FoxLeft0003" x="894" y="592" width="444" height="590" frameX="-6" frameY="-21" frameWidth="450" frameHeight="611"/>
+	<SubTexture name="FoxLeft0004" x="1340" y="592" width="442" height="600" frameX="-3" frameY="-11" frameWidth="450" frameHeight="611"/>
+	<SubTexture name="FoxLeft0005" x="1340" y="592" width="442" height="600" frameX="-3" frameY="-11" frameWidth="450" frameHeight="611"/>
+	<SubTexture name="FoxLeft0006" x="1340" y="592" width="442" height="600" frameX="-3" frameY="-11" frameWidth="450" frameHeight="611"/>
+	<SubTexture name="FoxLeft0007" x="1340" y="592" width="442" height="600" frameX="-3" frameY="-11" frameWidth="450" frameHeight="611"/>
+	<SubTexture name="FoxLeft0008" x="1340" y="592" width="442" height="600" frameX="-3" frameY="-11" frameWidth="450" frameHeight="611"/>
+	<SubTexture name="FoxLeft0009" x="1340" y="592" width="442" height="600" frameX="-3" frameY="-11" frameWidth="450" frameHeight="611"/>
+	<SubTexture name="FoxLeft0010" x="1340" y="592" width="442" height="600" frameX="-3" frameY="-11" frameWidth="450" frameHeight="611"/>
+	<SubTexture name="FoxLeft0011" x="1340" y="592" width="442" height="600" frameX="-3" frameY="-11" frameWidth="450" frameHeight="611"/>
+	<SubTexture name="FoxLeft0012" x="1340" y="592" width="442" height="600" frameX="-3" frameY="-11" frameWidth="450" frameHeight="611"/>
+	<SubTexture name="FoxLeft0013" x="1340" y="592" width="442" height="600" frameX="-3" frameY="-11" frameWidth="450" frameHeight="611"/>
+	<SubTexture name="FoxRight0000" x="1784" y="592" width="592" height="607" pivotX="-29.65" pivotY="-22.5"/>
+	<SubTexture name="FoxRight0001" x="1784" y="592" width="592" height="607"/>
+	<SubTexture name="FoxRight0002" x="2378" y="592" width="575" height="596" frameX="-9" frameY="-11" frameWidth="592" frameHeight="607"/>
+	<SubTexture name="FoxRight0003" x="2378" y="592" width="575" height="596" frameX="-9" frameY="-11" frameWidth="592" frameHeight="607"/>
+	<SubTexture name="FoxRight0004" x="2955" y="592" width="579" height="600" frameX="-5" frameY="-7" frameWidth="592" frameHeight="607"/>
+	<SubTexture name="FoxRight0005" x="2955" y="592" width="579" height="600" frameX="-5" frameY="-7" frameWidth="592" frameHeight="607"/>
+	<SubTexture name="FoxRight0006" x="2955" y="592" width="579" height="600" frameX="-5" frameY="-7" frameWidth="592" frameHeight="607"/>
+	<SubTexture name="FoxRight0007" x="2955" y="592" width="579" height="600" frameX="-5" frameY="-7" frameWidth="592" frameHeight="607"/>
+	<SubTexture name="FoxRight0008" x="2955" y="592" width="579" height="600" frameX="-5" frameY="-7" frameWidth="592" frameHeight="607"/>
+	<SubTexture name="FoxRight0009" x="2955" y="592" width="579" height="600" frameX="-5" frameY="-7" frameWidth="592" frameHeight="607"/>
+	<SubTexture name="FoxRight0010" x="2955" y="592" width="579" height="600" frameX="-5" frameY="-7" frameWidth="592" frameHeight="607"/>
+	<SubTexture name="FoxRight0011" x="2955" y="592" width="579" height="600" frameX="-5" frameY="-7" frameWidth="592" frameHeight="607"/>
+	<SubTexture name="FoxRight0012" x="2955" y="592" width="579" height="600" frameX="-5" frameY="-7" frameWidth="592" frameHeight="607"/>
+	<SubTexture name="FoxRight0013" x="2955" y="592" width="579" height="600" frameX="-5" frameY="-7" frameWidth="592" frameHeight="607"/>
+	<SubTexture name="FoxUp0000" x="3536" y="592" width="481" height="628" pivotX="-28.95" pivotY="28.85" frameX="0" frameY="0" frameWidth="487" frameHeight="628"/>
+	<SubTexture name="FoxUp0001" x="0" y="1222" width="481" height="628" frameX="0" frameY="0" frameWidth="487" frameHeight="628"/>
+	<SubTexture name="FoxUp0002" x="483" y="1222" width="483" height="610" frameX="-4" frameY="-17" frameWidth="487" frameHeight="628"/>
+	<SubTexture name="FoxUp0003" x="968" y="1222" width="483" height="610" frameX="-4" frameY="-17" frameWidth="487" frameHeight="628"/>
+	<SubTexture name="FoxUp0004" x="1453" y="1222" width="481" height="615" frameX="-3" frameY="-13" frameWidth="487" frameHeight="628"/>
+	<SubTexture name="FoxUp0005" x="1936" y="1222" width="481" height="615" frameX="-3" frameY="-13" frameWidth="487" frameHeight="628"/>
+	<SubTexture name="FoxUp0006" x="1453" y="1222" width="481" height="615" frameX="-3" frameY="-13" frameWidth="487" frameHeight="628"/>
+	<SubTexture name="FoxUp0007" x="1936" y="1222" width="481" height="615" frameX="-3" frameY="-13" frameWidth="487" frameHeight="628"/>
+	<SubTexture name="FoxUp0008" x="1453" y="1222" width="481" height="615" frameX="-3" frameY="-13" frameWidth="487" frameHeight="628"/>
+	<SubTexture name="FoxUp0009" x="1936" y="1222" width="481" height="615" frameX="-3" frameY="-13" frameWidth="487" frameHeight="628"/>
+	<SubTexture name="FoxUp0010" x="1453" y="1222" width="481" height="615" frameX="-3" frameY="-13" frameWidth="487" frameHeight="628"/>
+	<SubTexture name="FoxUp0011" x="1936" y="1222" width="481" height="615" frameX="-3" frameY="-13" frameWidth="487" frameHeight="628"/>
+	<SubTexture name="FoxUp0012" x="1453" y="1222" width="481" height="615" frameX="-3" frameY="-13" frameWidth="487" frameHeight="628"/>
+	<SubTexture name="FoxUp0013" x="1936" y="1222" width="481" height="615" frameX="-3" frameY="-13" frameWidth="487" frameHeight="628"/>
+</TextureAtlas>
